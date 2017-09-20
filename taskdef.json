@@ -1,9 +1,9 @@
 {
-    "family": "multi-plugin-app",
+    "family": "multi-plugins-app",
     "containerDefinitions": [
         {
             "image": "750037626691.dkr.ecr.ap-southeast-1.amazonaws.com/multi-plugins:latest",
-            "name": "multi-plugin-app",
+            "name": "multi-plugins-app",
             "cpu": 10,
             "memory": 512,
             "essential": true,
