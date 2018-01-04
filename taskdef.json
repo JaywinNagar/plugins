@@ -3,7 +3,7 @@
     "containerDefinitions": [
         {
             "image": "336528382084.dkr.ecr.us-east-1.amazonaws.com/bwce-ext:latest",
-            "name": "multi-plugins-app",
+            "name": "bwce-test-app",
             "cpu": 10,
             "memory": 1024,
             "essential": true,
