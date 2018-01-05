@@ -1,9 +1,9 @@
 {
-    "family": "launch-test-app",
+    "family": "multi-plugins-app",
     "containerDefinitions": [
         {
             "image": "336528382084.dkr.ecr.us-east-1.amazonaws.com/bwce-ext:latest",
-            "name": "bwce-test-app",
+            "name": "multi-plugins-app",
             "cpu": 10,
             "memory": 1024,
             "essential": true,
